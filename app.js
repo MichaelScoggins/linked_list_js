@@ -5,4 +5,3 @@ ll.insertAtHead(10);
 ll.insertAtHead(20);
 
 console.log(ll);
-//
